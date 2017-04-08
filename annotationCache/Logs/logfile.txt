@@ -223,3 +223,91 @@
 05-Jun-2012 16:40:16 127.0.0.1 *start_loading
 05-Jun-2012 16:40:16 127.0.0.1 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.53 Safari/536.5
 05-Jun-2012 16:40:16 127.0.0.1 *done_loading_Images/example_folder/img3.jpg
+07-Apr-2017 09:15:10 222.205.107.242 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 09:15:10 222.205.107.242 *start_loading
+07-Apr-2017 09:15:11 222.205.107.242 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 09:15:11 222.205.107.242 *start_loading
+07-Apr-2017 09:15:12 222.205.107.242 *done_loading_Images/example_folder/img3.jpg
+07-Apr-2017 09:15:44 222.205.107.242 *start_polygon
+07-Apr-2017 09:15:49 222.205.107.242 *What_is_this_object_query
+07-Apr-2017 09:15:54 222.205.107.242 *start_polygon
+07-Apr-2017 09:15:58 222.205.107.242 *What_is_this_object_query
+07-Apr-2017 09:16:13 222.205.107.242 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 09:16:13 222.205.107.242 *start_loading
+07-Apr-2017 09:16:13 222.205.107.242 *done_loading_Images/example_folder/img3.jpg
+07-Apr-2017 09:16:17 222.205.107.242 *start_polygon
+07-Apr-2017 09:16:24 222.205.107.242 *start_polygon
+07-Apr-2017 09:16:27 example_folder img3 0 1 222.205.107.242  car 1 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:16:30 222.205.107.242 *start_polygon
+07-Apr-2017 09:16:33 example_folder img3 1 2 222.205.107.242  car 2 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:16:36 222.205.107.242 *start_polygon
+07-Apr-2017 09:16:44 example_folder img3 2 3 222.205.107.242  car 3 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:16:47 222.205.107.242 *start_polygon
+07-Apr-2017 09:16:50 example_folder img3 3 4 222.205.107.242  car 4 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:16:54 222.205.107.242 *start_polygon
+07-Apr-2017 09:16:57 example_folder img3 4 5 222.205.107.242  car 5 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:17:00 222.205.107.242 *start_polygon
+07-Apr-2017 09:17:02 example_folder img3 5 6 222.205.107.242  car 6 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:17:12 222.205.107.242 *start_polygon
+07-Apr-2017 09:17:18 example_folder img1 2 3 222.205.107.242  car 7 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:17:21 222.205.107.242 *start_polygon
+07-Apr-2017 09:17:22 example_folder img1 3 4 222.205.107.242  car 8 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:17:53 222.205.107.242 *start_polygon
+07-Apr-2017 09:17:57 example_folder img2 0 1 222.205.107.242  car 9 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:21:59 222.205.107.242 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 09:21:59 222.205.107.242 *start_loading
+07-Apr-2017 09:21:59 222.205.107.242 *done_loading_Images/example_folder/img3.jpg
+07-Apr-2017 09:24:25 example_folder img1 4 5 222.205.107.242  car 1 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:24:48 222.205.107.242 *start_polygon
+07-Apr-2017 09:24:53 example_folder img1 5 6 222.205.107.242  car 2 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:24:56 222.205.107.242 *start_polygon
+07-Apr-2017 09:24:58 example_folder img1 6 7 222.205.107.242  car 3 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:25:00 222.205.107.242 *start_polygon
+07-Apr-2017 09:25:02 example_folder img1 7 8 222.205.107.242  car 4 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:25:04 222.205.107.242 *start_polygon
+07-Apr-2017 09:25:06 example_folder img1 8 9 222.205.107.242  car 5 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:25:10 222.205.107.242 *start_polygon
+07-Apr-2017 09:25:14 example_folder img1 9 10 222.205.107.242  car 6 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:25:16 222.205.107.242 *start_polygon
+07-Apr-2017 09:25:18 example_folder img1 10 11 222.205.107.242  car 7 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:25:21 222.205.107.242 *start_polygon
+07-Apr-2017 09:25:23 example_folder img1 11 12 222.205.107.242  car 8 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:25:26 222.205.107.242 *start_polygon
+07-Apr-2017 09:25:30 example_folder img1 12 13 222.205.107.242  car 9 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:25:33 222.205.107.242 *start_polygon
+07-Apr-2017 09:25:36 example_folder img1 13 14 222.205.107.242  car 10 anonymous cpts_not_modified 0 0
+07-Apr-2017 09:25:50 222.205.107.242 *Opened_Edit_Popup
+07-Apr-2017 09:25:55 222.205.107.242 *Closed_Edit_Popup
+07-Apr-2017 09:25:57 222.205.107.242 *Opened_Edit_Popup
+07-Apr-2017 09:25:58 222.205.107.242 *Closed_Edit_Popup
+07-Apr-2017 09:26:00 222.205.107.242 *Opened_Edit_Popup
+07-Apr-2017 09:26:03 222.205.107.242 *Closed_Edit_Popup
+07-Apr-2017 09:29:40 222.205.107.242 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 09:29:40 222.205.107.242 *start_loading
+07-Apr-2017 09:29:40 222.205.107.242 *done_loading_Images/example_folder/img3.jpg
+07-Apr-2017 09:29:57 222.205.107.242 *start_polygon
+07-Apr-2017 09:30:03 222.205.107.242 *start_polygon
+07-Apr-2017 09:30:05 example_folder img1 14 15 222.205.107.242  person 1 anonymous cpts_not_modified 0 0
+07-Apr-2017 13:25:34 10.190.70.229 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 13:25:34 10.190.70.229 *start_loading
+07-Apr-2017 13:25:34 10.190.70.229 *done_loading_Images/example_folder/img3.jpg
+07-Apr-2017 15:42:32 10.190.68.191 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 15:42:32 10.190.68.191 *start_loading
+07-Apr-2017 15:42:34 10.190.68.191 *done_loading_Images/example_folder/img3.jpg
+07-Apr-2017 16:44:35 10.190.68.191 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 16:44:35 10.190.68.191 *start_loading
+07-Apr-2017 16:44:35 10.190.68.191 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 16:44:35 10.190.68.191 *start_loading
+07-Apr-2017 16:44:35 10.190.68.191 *done_loading_Images/example_folder/img3.jpg
+07-Apr-2017 16:46:52 10.190.68.191 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+07-Apr-2017 16:46:52 10.190.68.191 *start_loading
+07-Apr-2017 16:46:53 10.190.68.191 *done_loading_Images/example_folder/img3.jpg
+07-Apr-2017 16:58:54 10.190.68.191 *start_polygon
+07-Apr-2017 16:59:00 10.190.68.191 *start_polygon
+07-Apr-2017 16:59:02 10.190.68.191 *What_is_this_object_query
+07-Apr-2017 16:59:21 10.190.68.191 *start_polygon
+07-Apr-2017 16:59:48 10.190.68.191 *What_is_this_object_query
+08-Apr-2017 12:11:43 10.190.68.232 *Browser_Information Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+08-Apr-2017 12:11:43 10.190.68.232 *start_loading
+08-Apr-2017 12:11:43 10.190.68.232 *done_loading_Images/example_folder/img3.jpg
+08-Apr-2017 13:52:56 10.190.68.232 *start_polygon
