@@ -27,10 +27,10 @@
    </Directory>
    ```
 
-   For Ubuntu 14.04 with Apache 2.4 (edit file /etc/apache2/apache2.conf):
+   For Ubuntu 14.04 with Apache 2.4, edit file /etc/apache2/apache2.conf, change the <Directory "/var/www"> element as follows:
 
    ``` sh
-   <Directory "REPLACE_WITH_YOUR_LOCATION">
+   <Directory "/var/www">
        Options Indexes FollowSymLinks MultiViews Includes ExecCGI
        AddHandler cgi-script .cgi
        AllowOverride all
