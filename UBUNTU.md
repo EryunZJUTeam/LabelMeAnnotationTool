@@ -27,7 +27,7 @@
    </Directory>
    ```
 
-   For Ubuntu 14.04 with Apache 2.4 (edit file /etc/apache2/sites-available/000-default.conf):
+   For Ubuntu 14.04 with Apache 2.4 (edit file /etc/apache2/apache2.conf):
 
    ``` sh
    <Directory "REPLACE_WITH_YOUR_LOCATION">
